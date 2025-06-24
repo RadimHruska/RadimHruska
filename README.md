@@ -16,7 +16,3 @@
 📫 Get in touch
 	•	📧 Email: radim-hruska@outlook.com
 	•	💼 LinkedIn
-
-⸻
-
-📊 My GitHub stats
