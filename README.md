@@ -18,14 +18,6 @@ Programming is not only my passion – it’s also how I fund my studies and eve
 - **Blockchain & Cryptocurrencies** – especially Bitcoin and its real-world applications.  
 - **Cross-platform solutions** – building scalable apps across Windows, Linux, and macOS.  
 
----
-
-## 📈 GitHub Stats
-![Radim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadimHruska&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadimHruska&layout=compact&theme=default)
-
----
-
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/radimhruska)  
 - [Portfolio / Website](https://radimhruska.eu)
