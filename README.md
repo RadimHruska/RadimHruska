@@ -1,18 +1,31 @@
-👋 Hi, I’m Radim Hruška!
+# Hi, I'm Radim Hruška 👋
 
-💻 Programmer focused on mobile, desktop, and web applications with a passion for technology.
-🎓 Student at FIT VUT Brno and self-employed.
+I am a **freelance software developer** and student at **FIT VUT**, focusing on **software engineering** and modern technologies.  
+Programming is not only my passion – it’s also how I fund my studies and everyday life.
 
-🚀 I enjoy working with:
-	•	C# / .NET MAUI / WPF / Blazor
-	•	PHP / JavaScript / React / Ionic
-	•	Swift / Flutter for native app development
-	•	Linux, Windows Server, Networking, Cisco
+---
 
-💡 I’m always looking to grow and take on new, exciting projects. I believe AI and technology have a huge future!
+## 💻 What I Do
+- **Mobile development**: .NET MAUI, Flutter, Swift, Ionic  
+- **Web development**: PHP, JavaScript, React, Blazor  
+- **Desktop apps**: C#, WPF, .NET  
+- **Other**: Networking, IT support, hardware fundamentals
 
-⸻
+---
 
-📫 Get in touch
-	•	📧 Email: radim-hruska@outlook.com
-	•	💼 LinkedIn
+## 🚀 Interests
+- **Artificial Intelligence** – exploring how AI-powered tools can boost efficiency and innovation in development.  
+- **Blockchain & Cryptocurrencies** – especially Bitcoin and its real-world applications.  
+- **Cross-platform solutions** – building scalable apps across Windows, Linux, and macOS.  
+
+---
+
+## 📈 GitHub Stats
+![Radim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadimHruska&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadimHruska&layout=compact&theme=default)
+
+---
+
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/radimhruska)  
+- [Portfolio / Website](https://radimhruska.eu)
